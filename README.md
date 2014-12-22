@@ -35,11 +35,75 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A manifeste detection of the notable falshed of that part of Iohn Frithes boke whiche he calleth his
+
 #####Body#####
-A manifeste detection of the notable falshed of that part of Iohn Frithes boke whiche he calleth his
+
+1. Capitulo. 1.
+
+1. Capitulo. 2.
+
+1. Capitulo. 3.
+
+1. Capitulo. 4.
+
+1. Cap. 5.
+
+1. Cap. 6.
+
+1. Capitulo. 3.
+
+1. Capitulo. 8.
+
+1. Capitulo. 9.
+
+1. Cap. 10.
+
+1. Cap. 11.
+
+1. Cap. 12.
+
+1. Cap. 13.
+
+1. Cap. 10
+
+1. Capitulo. 15.
+
+1. Cap. 16.
+
+1. Cap. 17.
+
+1. Cap. 18.
+
+1. Cap. 19.
+
+1. Cap. 20.
+
+1. Cap. 21.
+
+1. Cap. 22.
+
+1. Cap. 23.
+
+1. Cap 24.
+
+1. Cap. 25.
+
+1. Cap. 26.
+
+1. Cap. 27.
+
+1. Cap. 28.
+
+1. Cap. 29.
+
+1. Cap. 30.
+
 #####Back#####
-A manifeste detection of the notable falshed of that part of Iohn Frithes boke whiche he calleth his
+
+1. Fautes eſcaped in the printyng.
+
+1. IMPRINTED AT LONDON IN FLETESTRETE IN THE HOVS OF THOmas Berthelet.
+LVCRECIA ROMANA THOMAS BERTHELETVS
 **Types of content**
 
   * There are 22 **verse** lines!
